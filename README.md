@@ -7,5 +7,7 @@ Take a look at [[Train_Bot.json]]. The trained model will be capable of respondi
 
 _It is advisable to create a new environment for every python project._
 
-`pip install -r requirements.txt`
-`python bot.py`
+```
+pip install -r requirements.txt
+python bot.py
+```
