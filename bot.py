@@ -8,7 +8,7 @@ import pickle
 import numpy as np
 from keras.models import Sequential, load_model
 from keras.layers import Dense, Activation, Dropout
-from keras.optimizers.legacy import SGD
+from keras.optimizers import SGD
 import random
 
 # Import the Train_bot file for pre-processing
