@@ -9,5 +9,6 @@ _It is advisable to create a new environment for every python project._
 
 ```bash
 pip install -r requirements.txt
-python bot.py
+python train.py
+python run.py
 ```
