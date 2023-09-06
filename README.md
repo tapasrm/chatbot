@@ -9,7 +9,7 @@ This works pretty well with 99% accuracy.
 Sometimes it faces some challenge with grammatically incorrect words.
 We can solve this by implementing a Trie on the client side to check for grammatical errors.
 
-Take a look at [[Train_Bot.json]]. The trained model will be capable of responding to those questions.
+Take a look at the [training data](Train_Bot.json). The trained model will be capable of responding to those questions.
  
 ### Steps to run locally
 
